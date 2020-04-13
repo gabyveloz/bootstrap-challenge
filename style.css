@@ -1,0 +1,22 @@
+footer{
+	background-color: black;
+	text-align: center;
+	color: white;
+}
+.circle{
+	height: 200px;
+	width: 200px;
+	border-radius: 200px;
+}
+.center{
+	text-align: center;
+}
+
+.t-box{
+	border: 3px darkgray solid;
+	background-color: gray;
+	padding-top: 3px;
+	border-radius: 5px;
+	text-align: center;
+
+}
